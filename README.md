@@ -46,4 +46,4 @@ QA Analyst | Testes Manuais e Automatizados | Foco em Robot Framework
 - E-mail: soaresdayane34@gmail.com
 
 Se quiser ver rapidamente meu portfólio técnico, comece por:  
-👉 [Desafios-Automadizados](https://github.com/soaresdayane/Desafios-Automadizados)
+👉 [Desafios-Automatizados](https://github.com/soaresdayane/Desafios-Automatizados)
